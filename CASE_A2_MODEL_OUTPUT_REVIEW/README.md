@@ -3,6 +3,8 @@
 This repository documents an applied case focused on the **review of RothC soil carbon model outputs under uncertainty**, in the context of carbon farming and verification-driven environments.
 
 The case is designed to simulate a **realistic internal workflow** where model outputs are evaluated for **fitness-for-use**, rather than for numerical optimisation or academic performance.
+**This case does not re-implement RothC equations.
+It uses synthetic, RothC-consistent outputs to exercise output review, uncertainty framing, and audit-facing decision-making.**
 
 The emphasis is on:
 - agronomic plausibility
