@@ -146,3 +146,8 @@ Results produced here:
 - should not be used for operational or financial decisions
 
 The case demonstrates how to reason about model outputs, not how to deploy models in production.
+
+## License
+
+This repository is shared for educational and analytical use.
+No warranty is provided regarding correctness, completeness, or fitness for any specific purpose.
